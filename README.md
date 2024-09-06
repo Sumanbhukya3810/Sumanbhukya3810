@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sumanbhukya3810
-- 👀 I’m interested in Cloud + Devops 
-- 🌱 I’m currently learning AWS, Docker, Kubernetes, Ansible, Git etc...
+- 👋 Hi, I’m @Sumanbhukya3810  "Suman Bhukya"
+- 👀 Had good handson in multi Cloud && Devops 
+- 🌱 strong knowledge on  AWS, Docker, Kubernetes, Ansible, Git , Jenkins
 - 💞️ I’m looking to collaborate on  Cloud Devops Projects 
-- 📫 You can reach me by sumannaik3810@gmail.com
+- 📫 You can reach me by suman.bhukya3810@gmail.com
 
 
 <!---
