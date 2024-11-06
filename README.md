@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sumanbhukya3810  "Suman Bhukya"
-- 👀 Had good handson in multi Cloud && Devops 
-- 🌱 strong knowledge on  AWS, Docker, Kubernetes, Ansible, Git , Jenkins
+- 👋 Hi, I’m "Suman Bhukya"
+- 👀 me Being a Backend Developer and had strong Cloud && Devops expertise 
+- 🌱 strong knowledge on Java ,SpringBoot, AWS, Docker, Kubernetes, Ansible, Git , Jenkins  networking...
 - 💞️ I’m looking to collaborate on  Cloud Devops Projects 
 - 📫 You can reach me by suman.bhukya3810@gmail.com
 
